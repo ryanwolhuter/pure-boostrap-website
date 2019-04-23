@@ -1,0 +1,66 @@
+:root {
+    --green-dark: #44853e;
+    --green-light: #86c543;
+    --orange: #ffad3b;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+section {
+    scroll-margin: 70px;
+}
+
+h1 {
+    color: var(--green-dark);
+}
+
+i {
+    color: var(--green-light);
+}
+
+.navigation {
+    background-color: rgba(68, 133, 62, 0.9);
+}
+
+.navbar-toggler-icon {
+    color: #44853e;
+}
+
+.banner-container {
+    height: 100vh;
+    background-color: var(--green-light);
+}
+
+.internet {
+    color: var(--green-dark);
+}
+
+.html {
+    width: 90%;
+    background-color: #44853e;
+}
+
+.css {
+    width: 80%;
+    background-color: #539e4c;
+}
+
+.javascript {
+    width: 95%;
+    background-color: #7bcc76;
+}
+
+.bootstrap {
+    width: 97%;
+    background-color: #9ee098;
+}
+
+#contact {
+    height: 100vh;
+}
+
+footer {
+    background-color: var(--green-dark);
+}
